@@ -1,0 +1,10 @@
+Host FTP:  ftp.poliparts.com.br  
+Usuário: polipart  
+Senha:  j6116  
+Seu endereço:  http://www.poliparts.com.br  
+
+
+>> ADD HOST
+
+>> DOMINIO - ANUAL: JULHO
+>> HOSPEDAGEM - SEMESTRAL - JULHO

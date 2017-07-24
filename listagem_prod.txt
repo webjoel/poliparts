@@ -1,0 +1,134 @@
+Segue relação de peças e marcas fornecidas .
+
+
+Sds...Fabiano
+
+
+
+1-Motor               Bronzina biela
+                          Bronzina mancal
+                          Pistão motor
+                          Correia
+                          Polia
+                          hélice
+                          Bomba dagua
+                          escapamento
+
+
+
+2-Sistema freio     Cilindro mestre embreagem
+                           Cilindro mestre freio
+                           Cilindro roda
+                           Sapata freio
+
+
+3-Sistema eletrico  Indicador de temperatura
+                            Horimetro
+                            Distribuidor
+                            Rotor
+                            Tampa
+                            Sinaleira
+
+
+4-Sistema Hidráulico   Válvula
+                                 Cilindro
+                                 Reparo
+                                 Bomba
+                                 Mangueira
+                                 Conexão
+
+
+5-Sistema Direcional    Eixo tração
+                                  Eixo direcional
+                                  Aro / Roda / Pneu
+                                  Pino /Bucha / Rótula
+                                  Parafuso / porca
+                                  Cabo
+                                  cubo de roda
+                                  ponta de eixo
+
+
+6-Transmissão             Conversor de torque
+                                  Disco
+                                  Placa l
+                                  Diferencial
+                                  Vedação
+
+
+7-Sistema G.L.P.           Vaporizador
+                                   Solenóide
+                                   Reparo
+
+
+8-Torre Elevação          Rodete
+                                   Roldana
+                                   Mancal
+
+
+9-Caixa de marcha / Reversão      Engrenagem
+                                                  Eixo
+                                                  anel sincronizado garfo
+
+
+
+10-  Linha geral        retentores
+                               rolamentos
+                               filtros
+
+
+
+
+
+**********************************************************************
+
+Linha de produtos :
+
+                           Filtros : Mann
+                                       Fleetguard
+                                       Unifilter
+                                       Tecfil
+
+                            Correias : Gates
+                                           Goodyear
+                                           Dayco
+
+                             Rolamentos : Nsk
+                                                 Timkem
+                                                 Fag
+
+                             Bombas :  Indisa
+                                             Vetore
+                                             Medal
+                                             Vickers
+
+                              Retentores : Sabó
+                                                 Sav
+                                                 Nok
+
+                              Freio  : Varga
+                                          A teves
+                                          Contriol
+                                          Genau
+
+
+                              Motor  : Metal leve
+                                          Mahle
+
+
+                              Elétrico  : Curti
+                                             Vdo
+
+                         Sistema GLP : Rodogás
+                                               Impco
+                                               Felcher
+
+                         Sistema  hidraulico : Golden kits
+                                                        Focker
+                                                        Agel
+
+
+
+Obs : Seria mais ou menos isso a relação de clientes é melhor não colocar 
+por enqto.
+
+Sds....Fabiano
